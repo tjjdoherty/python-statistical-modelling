@@ -1,45 +1,45 @@
-name,address,category
-Ninetails Coffee Bar,651 Bloor St W,Coffee Shop
-Snakes & Lattes,600 Bloor St W,Café
-Rustle & Still Café,605 Bloor St W,Café
-Korean Village Restaurant,628 Bloor St W,BBQ Joint
-Buk Chang Dong Soon Tofu,691 Bloor St W,Korean Restaurant
-Insomnia Restaurant and Lounge,563 Bloor St W,Restaurant
-Basecamp Climbing,677 Bloor St W,Rock Climbing Spot
-Christie Pits Park,750 Bloor St W,Park
-Sam James Coffee Bar,297 Harbord St,Café
-Banjara Indian Cuisine,796 Bloor St W,Indian Restaurant
-Kinka Izakaya Bloor,559 Bloor St W,Japanese Restaurant
-Crafty Coyote,511 Bloor St W,Beer Bar
-Paradise Grapevine,841 Bloor St W,Wine Bar
-El Pocho Antojitos Bar,2 Follis Ave,Bar
-Cobs Bread,370 Bloor St W,Bakery
-Victory Cafe,440 Bloor St W,Beer Bar
-Pizza Gigi,189 Harbord St,Pizzeria
-New Generation Sushi,486 Bloor St W,Sushi Restaurant
-Sushi on Bloor,515 Bloor St W,Sushi Restaurant
-Vermont Square Park,819 Palmerston Ave,Playground
-Famoso Italian Pizzeria - Annex,386 Bloor St W,Pizzeria
-Arisu,584 Bloor St W,BBQ Joint
-Baskin-Robbins,726 Bloor St W,Ice Cream Parlor
-St. Louis Bar and Grill,376 Bloor St W,BBQ Joint
-Pour Boy Pub,666 Manning Ave,Pub
-Future Bistro,483 Bloor St W,Bakery
-Coda,794 Bathurst St,Night Club
-Paupers Pub,539 Bloor St W,Pub
-Mary Brown's Chicken,636 Bloor St W,Fried Chicken Joint
-MaMa Chef Korean Restaurant,648 Bloor St W,Korean Restaurant
-Jin Dal Lae,647 Bloor St W,Korean Restaurant
-Ka-Chi,2322 Bloor St W,Korean Restaurant
-Greek in the Village,664 Bloor St W,Greek Restaurant
-JJIN Toast,792 Bathurst St,Korean Restaurant
-Ed and Anne Mirvish Parkette,843 Bathurst,Park
-Tim Hortons,726 Bloor St W,"Cafe, Coffee, and Tea House"
-Kinton Ramen,668 Bloor St W,Ramen Restaurant
-Bickford Park,Address not available,Park
-Healey Willan Park,504 Euclid Ave,Park
-St. Alban's Square,90 Howland Ave,Park
-Joseph Burr Tyrell Park,357 Brunswick Ave,Playground
-Art Eggleton Park,323 Harbord St,Park
-"The Londoners Pub: boire, manger, danser, bouger & Grill Inc",500 Bloor St W,Restaurant
-The Saturday Songwriters Circus,292 Brunswick Ave,Concert Hall
+name,address,category,ll
+Ninetails Coffee Bar,651 Bloor St W,Coffee Shop,"43.664049,-79.415262"
+Snakes & Lattes,600 Bloor St W,Café,"43.664876,-79.413149"
+Rustle & Still Café,605 Bloor St W,Café,"43.664557,-79.412911"
+Korean Village Restaurant,628 Bloor St W,BBQ Joint,"43.664553,-79.414501"
+Buk Chang Dong Soon Tofu,691 Bloor St W,Korean Restaurant,"43.663758,-79.416945"
+Insomnia Restaurant and Lounge,563 Bloor St W,Restaurant,"43.665097,-79.410893"
+Basecamp Climbing,677 Bloor St W,Rock Climbing Spot,"43.663785,-79.416575"
+Christie Pits Park,750 Bloor St W,Park,"43.664775,-79.420709"
+Sam James Coffee Bar,297 Harbord St,Café,"43.660163,-79.415435"
+Banjara Indian Cuisine,796 Bloor St W,Indian Restaurant,"43.663179,-79.42181"
+Kinka Izakaya Bloor,559 Bloor St W,Japanese Restaurant,"43.665051,-79.410745"
+Crafty Coyote,511 Bloor St W,Beer Bar,"43.665421,-79.408747"
+Paradise Grapevine,841 Bloor St W,Wine Bar,"43.662222,-79.423387"
+El Pocho Antojitos Bar,2 Follis Ave,Bar,"43.669631,-79.413395"
+Cobs Bread,370 Bloor St W,Bakery,"43.66642,-79.40582"
+Victory Cafe,440 Bloor St W,Beer Bar,"43.665833,-79.408485"
+Pizza Gigi,189 Harbord St,Pizzeria,"43.661693,-79.408292"
+New Generation Sushi,486 Bloor St W,Sushi Restaurant,"43.665589,-79.409522"
+Sushi on Bloor,515 Bloor St W,Sushi Restaurant,"43.66546,-79.408987"
+Vermont Square Park,819 Palmerston Ave,Playground,"43.670004,-79.41598"
+Famoso Italian Pizzeria - Annex,386 Bloor St W,Pizzeria,"43.666176,-79.406857"
+Arisu,584 Bloor St W,BBQ Joint,"43.664969,-79.41265"
+Baskin-Robbins,726 Bloor St W,Ice Cream Parlor,"43.663723,-79.418202"
+St. Louis Bar and Grill,376 Bloor St W,BBQ Joint,"43.666276,-79.406265"
+Pour Boy Pub,666 Manning Ave,Pub,"43.664367,-79.416294"
+Future Bistro,483 Bloor St W,Bakery,"43.665783,-79.407636"
+Coda,794 Bathurst St,Night Club,"43.66533,-79.411538"
+Paupers Pub,539 Bloor St W,Pub,"43.665157,-79.410061"
+Mary Brown's Chicken,636 Bloor St W,Fried Chicken Joint,"43.66470609200628,-79.41454644189024"
+MaMa Chef Korean Restaurant,648 Bloor St W,Korean Restaurant,"43.664434,-79.41537"
+Jin Dal Lae,647 Bloor St W,Korean Restaurant,"43.664115,-79.415132"
+Ka-Chi,2322 Bloor St W,Korean Restaurant,"43.664712,-79.413871"
+Greek in the Village,664 Bloor St W,Greek Restaurant,"43.664204,-79.416222"
+JJIN Toast,792 Bathurst St,Korean Restaurant,"43.665219,-79.411521"
+Ed and Anne Mirvish Parkette,843 Bathurst,Park,"43.666578,-79.411364"
+Tim Hortons,726 Bloor St W,"Cafe, Coffee, and Tea House","43.663827,-79.418312"
+Kinton Ramen,668 Bloor St W,Ramen Restaurant,"43.664145,-79.416259"
+Bickford Park,Address not available,Park,"43.660366,-79.418039"
+Healey Willan Park,504 Euclid Ave,Park,"43.659482,-79.413222"
+St. Alban's Square,90 Howland Ave,Park,"43.668709,-79.410628"
+Joseph Burr Tyrell Park,357 Brunswick Ave,Playground,"43.66677,-79.407185"
+Art Eggleton Park,323 Harbord St,Park,"43.658935,-79.418418"
+"The Londoners Pub: boire, manger, danser, bouger & Grill Inc",500 Bloor St W,Restaurant,"43.665484,-79.410207"
+The Saturday Songwriters Circus,292 Brunswick Ave,Concert Hall,"43.665117,-79.407529"
