@@ -18,9 +18,11 @@ Step 3: Joining the Data:
 - I joined the City Bikes and Foursquare data by importing the City Bikes dataframe and calling the Foursquare API on the entire bike stations dataset. This means that for each of the 826 stations, Foursquare obtained up to 50 POIs in an 800 metre radius in the bar/restaurant, park, cafe and live venue categories. This gave me data on each bike station's number of nearby bars/restaurants, cafes, parks and live venues against the bike availability and latitude/longitude to train the model and perform a linear regression later. I want to know if there's a relationship between bike availability and the POIs around the station.
 Step 3b:
 - I also saved the individual venue data such as name, address, venue category for saving into a SQL .db file, as I did with the city bikes stations. This created a database holding tens of thousands venues and hundreds of bike stations, where we can join the tables and view them both across the city of Toronto in a SQL table by their latitude/longitude location and their address/location.
+- See joining_data.ipynb for more.
 
 Step 4: Building a model:
 - I used the data for some EDA and find correlations between the numeric data, using Seaborn correlation heatmaps and scatter graphs. I identified the strongest correlations, ran Pearson tests to find p-values to determine if the relationships were statistically significant, then fit a model to those features.
+- See model_building.ipynb for more.
 
 ## Results
 The strongest correlation found in my model that was not a clear case of collinearity was latitude correlating with the number of POIs (-0.51 correlation) and latitude correlating with the bike availability (-0.31). These mean that as you travel south in Toronto (latitude is decreasing), the number of POIs increase as does the number of available bikes. This first finding is to be expected because Toronto is south-facing onto Lake Ontario so southernmost Downtown would be more densely packed with POIs. The second finding is of considerable value though as it suggests it is harder to find an available bike the further north you are in the city.
