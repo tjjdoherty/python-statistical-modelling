@@ -31,7 +31,7 @@ I validated these correlations by finding p-values well below 0.05 for all of th
 - There is also a similarly significant relationship between latitude and the number of Points of Interest as called by Foursquare. The correlation is -0.31, meaning the number of POIs increases as you move South in Toronto.
 - There is a statistically significant relationship between the number of Points of Interest and the number of bikes available at bike stations. The correlation is 0.17 which is weak.
 
-I ran simple linear regression on bike availability against the latitude to fit a model. The R^2 (R-Squared) came out to 0.09 is disappointing - this means that latitude alone accounts for 9% of the variance in bike availability.
+I ran simple linear regression on bike availability against the latitude to fit a model. The R^2 (R-Squared) came out to 0.097 is disappointing - this means that latitude alone accounts for 9.7% of the variance in bike availability.
 I also ran simple linear regression on the number of Points of Interest against the latitude to fit a model. The R^2 (R-Squared) came out to 0.27 which indicates that latitude alone can account for only 27% of the variance in the number of POIs.
 Trying to tie both of these two together, I ran a multilinear regression to predict bike availability from the number of POIs and latitude but this also came out to 0.096 - very poorly fit model.
 
