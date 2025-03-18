@@ -1,11 +1,11 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Statistical-Modelling-with-Python
 
 ## Jan 2025 portfolio update
 - I'm generally happy with the status of this project as it was designed to develop my statistical modelling and use of some APIs, which I wish to continue developing but would likely benefit from doing that with other APIs in different projects, having worked with Yelp/Foursquare already now. Per future goals section below, I did already take two API pulls comparing times of day. There are no significant changes to this repo upcoming.
 
 ## Project/Goals
 - The goal of the project was to statistically model if there was a relationship between the bike availability and the number of Points of Interest (POIs herein) in the vicinity, their specific categories, and location of the bike station itself.
-- To do this we can use the City Bike API, the Foursquare API and Yelp API, combine the data and extract points of interest and the locations and bike availability of the stations and do some data visualization and linear regression modelling.
+- To do this, we used the City Bike, Foursquare and Yelp APIs, combining the data, extracting points of interest, their locations and bike availability at the stations. With this we did some data visualization and linear regression modelling.
 
 ## Process
 Step 1: CityBikes: 
